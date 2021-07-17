@@ -67,6 +67,7 @@ void loop()
 
 https://user-images.githubusercontent.com/74800962/126025030-f19bd8ca-4e74-48f0-8d39-b3ede9217616.mov
 
+### YOU CAN [TRY IT](https://www.tinkercad.com/things/d93VBBPUqW0-smooth-fyyran) !
 
 # Learning references:
 1. [Click here](https://www.youtube.com/watch?v=qJeAo4zo0IY)
